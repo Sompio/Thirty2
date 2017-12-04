@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Thirty</string>
+    <string name="Roll">Roll</string>
+    <string name="Rules">Rules</string>
+    <string name="booldice1">0</string>
+    <string name="booldice2">0</string>
+    <string name="booldice3">0</string>
+    <string name="booldice4">0</string>
+    <string name="booldice5">0</string>
+    <string name="booldice6">0</string>
+    <string name="title_activity_start">StartActivity</string>
+    <string name="Start_Game">StartActivity</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+    <string name="title_activity_score">ScoreActivity</string>
+    <string name="Intro">This is the game Thirty. an intriguing game which requires that the user
+    thinks about finding the best combination of dice to get the most points</string>
+
+
+</resources>
